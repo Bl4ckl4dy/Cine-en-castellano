@@ -164,7 +164,7 @@
       "import": false
     },
     {
-      "name": "13 FANTASMAS",
+      "name": "13 fantasmas",
       "image": "https://pics.filmaffinity.com/thirteen_ghosts_aka_thir13en_ghosts_aka_13_ghosts-625408527-large.jpg",
       "url": "https://pixeldrain.net/u/sj1t4H6k",
       "info": "[Español] [2001]",
@@ -175,8 +175,56 @@
       "online": "true",
       "import": false
     },
+ {
+      "name": " 2097 ",
+      "image": "https://pics.filmaffinity.com/2097-702075576-mmed.jpg",
+      "url": "https://pixeldrain.net/u/oA3oY3eZ",
+      "info": "2017",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": " 21 gramos",
+      "image": "https://pics.filmaffinity.com/21_grams-911591219-mmed.jpg",
+      "url": "https://pixeldrain.net/u/R6gC2bhq",
+      "info": "2003",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": " 22 balas ",
+      "image": "https://pics.filmaffinity.com/l_immortel_22_bullets-117600427-mmed.jpg",
+      "url": "https://pixeldrain.net/u/XYP98PSg",
+      "info": "2010",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": " 28 días ",
+      "image": "https://pics.filmaffinity.com/28_days-534464084-mmed.jpg",
+      "url": "https://pixeldrain.net/u/ceakDCcx",
+      "info": "2000",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
-      "name": "28 DIAS DESPUES",
+      "name": "28 días después",
       "image": "https://pics.filmaffinity.com/28_days_later-469569758-large.jpg",
       "url": "https://pixeldrain.net/u/j3Y2GgoM",
       "info": "2002",
@@ -188,7 +236,7 @@
       "import": false
     },
     {
-      "name": "28 SEMANAS DESPUES",
+      "name": "28 semanas después",
       "image": "https://pics.filmaffinity.com/28_weeks_later-892655817-large.jpg",
       "url": "https://pixeldrain.net/u/KnC4CjRu",
       "info": "[2007]",
@@ -200,7 +248,7 @@
       "import": false
     },
     {
-      "name": "28 AÑOS DESPUES",
+      "name": "28 años después",
       "image": "https://m.media-amazon.com/images/M/MV5BZDI1N2ExZDEtZTlkNC00YTY1LWIzYTAtZWRkNWUxNTNkZDNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "url": "https://pixeldrain.net/u/fSE8mgDa",
       "info": "[2025][Español]",
@@ -211,8 +259,20 @@
       "online": "true",
       "import": false
     },
+{
+      "name": " 28 años después: El templo de los huesos ",
+      "image": "https://pics.filmaffinity.com/28_years_later_the_bone_temple-579428600-mmed.jpg",
+      "url": "https://pixeldrain.net/u/jz2Bjrr6",
+      "info": "2026",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
-      "name": "30 DIAS",
+      "name": "30 días",
       "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/g8fpyt9SzzgoIr4iymrOuSGxgaZ.jpg",
       "url": "https://byseraguci.com/e/scr6qqmiuzkp",
       "info": "[2020][Acción, comedia]",
@@ -224,7 +284,7 @@
       "import": false
     },
 {
-"name": "53 DOMINGOS",
+"name": "53 domingos",
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/nxUy4A5KFdNVjwqXoFRK8PqZ5vZ.jpg",
 "url": "https://pixeldrain.net/u/7duxqLJU",
 "info": "[2026]",
