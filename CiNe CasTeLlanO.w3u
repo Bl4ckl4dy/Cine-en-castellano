@@ -868,31 +868,11 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-    {
-      "name": "AMOR, UN",
-      "image": "https://pics.filmaffinity.com/un_amor-986488292-large.jpg",
-      "url": "https://listeamed.net/v/7QWN5ey632m59oR",
-      "info": "[2023]",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "AMOR EN TODA LA CARA",
-      "image": "https://pics.filmaffinity.com/amor_en_toda_la_cara-940527051-large.jpg",
-      "url": "https://filemoon.to/d/nmpbdqep9o3d/Amor_en_toda_la_cara__2024_Pelicula_.mp4",
-      "info": "[Español][2024]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "AMOR PLATÓNICO",
-      "image": "https://i.postimg.cc/dVnbM0Ps/IMG-20241110-165850-919.jpg",
-      "url": "https://filemoon.to/d/gvrg3cfp1r3z",
-      "info": "2024",
+{
+      "name": "Amor apocalipsis",
+      "image": "https://pics.filmaffinity.com/amour_apocalypse-119352431-msmall.jpg",
+      "url": "https://byseraguci.com/d/87237hfnvd9a/amor-apocalipsis",
+      "info": "2025",
       "embed": "true",
       "isHost": "true",
       "online": "true",
@@ -980,17 +960,6 @@
       "name": "APOCALIPSIS Z : EL PRINCIPIO DEL FIN",
       "image": "https://i.postimg.cc/gct9SbNS/XFOYAUFZPRFLJAHOVQXS7-KHLRU.jpg",
       "url": "https://pixeldrain.net/u/DDq2VsUi",
-      "info": "2024",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "APRENDER A SOLTAR",
-      "image": "https://i.postimg.cc/tJRqBx5r/IMG-20241105-123346-524.jpg",
-      "url": "https://filemoon.to/d/8kzwxepj3vjw",
       "info": "2024",
       "embed": "true",
       "isHost": "true",
@@ -7152,6 +7121,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+      "name": "Mi hermana Bertille",
+      "image": "https://pics.filmaffinity.com/qui_brille_au_combat-641118610-mmed.jpg",
+      "url": "https://byseraguci.com/e/ovf57bw6281x",
+      "info": "2025",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
     {
       "name": "MI LISTA DE DESEOS",
       "image": "https://pics.filmaffinity.com/the_life_list-567019967-large.jpg",
@@ -8342,6 +8322,17 @@
       "referer": "",
       "isHost": "true",
       "online": "true",
+      "import": false
+    },
+{
+      "name": "Patrulla nocturna",
+      "image": "https://pics.filmaffinity.com/night_patrol-442306571-mmed.jpg",
+      "url": "https://byseraguci.com/e/bzyonz6kz7zu/patrulla-nocturna",
+      "info": "2026",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
 {
