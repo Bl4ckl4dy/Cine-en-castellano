@@ -3542,6 +3542,18 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+{
+      "name": "El pasajero",
+      "image": "https://pics.filmaffinity.com/the_passenger-111036506-mmed.jpg",
+      "url": "https://byseraguci.com/e/6c3m8z69b3yy/el-pasajero",
+      "info": "2026",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
  {
       "name": "EMBOSCADA, LA",
       "info": "2023",
@@ -8391,6 +8403,18 @@
       "info": "2018",
       "isHost": "true",
       "online": "true"
+    },
+{
+      "name": "Posesión infernal: En llamas",
+      "image": "https://pics.filmaffinity.com/evil_dead_burn-680479495-mmed.jpg",
+      "url": "https://byseraguci.com/e/9bd8aid33p8t/posesión-infernal-en-llamas",
+      "info": "2026",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
     },
     {
       "name": "PRACTICANTE, EL",
