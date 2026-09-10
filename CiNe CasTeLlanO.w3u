@@ -8321,6 +8321,18 @@
 "online": "true",
 "import": false
 },
+ {
+      "name": "Proyecto Salvación",
+      "image": "https://pics.filmaffinity.com/project_hail_mary-366657509-mmed.jpg",
+      "url": "https://byseraguci.com/e/as3oquabx0m0/proyecto-salvación",
+      "info": "2026",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "PROYECTO ADAM, EL",
       "image": "https://pics.filmaffinity.com/the_adam_project-982692706-large.jpg",
