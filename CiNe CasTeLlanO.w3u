@@ -484,6 +484,42 @@
 "import": false
 },
 {
+      "name": " Agatha Christie: Trayectoria de bumeran",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/ei8eVF9qZ14YBvuBI1FPr1lgqMw.jpg ",
+      "url": " https://cdn.pixeldrain.eu.cc/U1qgAjut ",
+      "info": " 1980",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": " Agente contrainteligente",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/2sMVG7H41wx6L5pmG1zG1aTmsBv.jpg ",
+      "url": " https://cdn.pixeldrain.eu.cc/8vV8UFcU ",
+      "info": " 2016",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": " Agente doble",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/1BuGBulc0vEBHNFOGzumNXJvndU.jpg ",
+      "url": " https://cdn.pixeldrain.eu.cc/UKvs6GG3 ",
+      "info": " 1977",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
       "name": "Agente infiltrado",
       "image": "https://i.postimg.cc/XNx7hBfX/IMG-20250619-194213-760.jpg",
       "url": "https://cdn.pixeldrain.eu.cc/85ppDwdq",
@@ -492,6 +528,18 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+{
+      "name": " Agente Stone",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/jCiGfY7D6pHIU1dlVccfixUwtGV.jpg ",
+      "url": " https://cdn.pixeldrain.eu.cc/tNqz2BPp ",
+      "info": " 2023 ",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
 {
