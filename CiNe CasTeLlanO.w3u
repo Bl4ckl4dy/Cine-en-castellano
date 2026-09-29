@@ -3670,7 +3670,7 @@
 "name": " Drea & Cloe ",
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/i0CekRC1hE1qLTLhdVJlmI7nKpc.jpg",
 "url": "https://byseraguci.com/e/vreham4wf880",
-"info": "[2026]",
+"info": "2026",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "true",
@@ -3744,10 +3744,10 @@
       "online": "true"
     },
 {
-"name": "EFECTO MARIPOSA, EL",
+"name": "El efecto mariposa",
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/vtqJkVTvrxbk2BehGO6e6izsUBa.jpg",
 "url": "https://pixeldrain.net/u/FCJjVD1F",
-"info": "[2004]",
+"info": "2004",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "true",
@@ -3792,7 +3792,7 @@
       "name": " El 47",
       "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/gzdhZFz3gUTu5MneQZYozmbKsLf.jpg",
       "url": "https://byseraguci.com/e/xxlb2lg2ykcy",
-      "info": "[2024]",
+      "info": "2024",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "referer": "",
       "embed": "true",
@@ -3827,7 +3827,7 @@
 "name": " El bajo perdido de McCartney",
 "image": "https://pics.filmaffinity.com/mccartney_the_hunt_for_the_lost_bass-418673288-mmed.jpg",
 "url": "https://byseraguci.com/e/6l033oabxo13/el-bajo-perdido-de-mccartney",
-"info": "[2026]",
+"info": "2026",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "true",
@@ -3836,8 +3836,8 @@
 "import": false
 },
     {
-      "name": "EL COLEGIO DE LOS ANIMALES MAGICOS",
-      "info": "[2021][Español]",
+      "name": "El colegio de los animales mágicos ",
+      "info": "2021",
       "image": "https://es.web.img2.acsta.net/c_310_420/pictures/22/06/21/14/43/3942002.jpg",
       "url": "https://pixeldrain.net/u/c4u3Rmtn",
       "isHost": "true",
@@ -3848,7 +3848,7 @@
 "name": "El diablo viste de Prada 2",
 "image": "https://pics.filmaffinity.com/the_devil_wears_prada_2-402204206-mmed.jpg",
 "url": "https://byseraguci.com/e/yrgnvd6oe5vp/el-diablo-viste-de-prada-2",
-"info": "[2026]",
+"info": "2026",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "true",
@@ -3875,8 +3875,8 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
-      "name": "EL FRANCOTIRADOR",
-      "info": "[2014][Español]",
+      "name": "El francotirador",
+      "info": "2014",
       "image": "https://m.media-amazon.com/images/M/MV5BZDNjNjFlOGUtYTc5Yy00ZDZiLTg4NzMtYjlmM2JmMTBkOWY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "url": "https://pixeldrain.net/u/VVAgsQn2",
       "isHost": "true",
@@ -3887,7 +3887,7 @@
 "name": " El libro negro de las horas ",
 "image": "https://pics.filmaffinity.com/kraken_el_libro_negro_de_las_horas-963247382-mmed.jpg",
 "url": "https://byseraguci.com/e/rjyt6hzss0k0/el-libro-negro-de-las-horas",
-"info": "[2026]",
+"info": "2026",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "true",
@@ -3905,8 +3905,8 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
-      "name": "EL MONSTRUO DE St PAULI",
-      "info": "[2019][Español]",
+      "name": " El monstruo de St Pauli ",
+      "info": "2019",
       "image": "https://i.postimg.cc/G2gv3Wht/MONTRUO.jpg",
       "url": "https://pixeldrain.net/u/XopR8ptq",
       "isHost": "true",
@@ -3921,6 +3921,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "true",
       "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+  {
+      "name": "El último refugio",
+      "image": "https://pics.filmaffinity.com/for_morket-406589871-large.jpg",
+      "url": "https://pixeldrain.net/u/jArBU9gS",
+      "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
       "isHost": "true",
       "online": "true",
       "import": false
@@ -10824,9 +10836,21 @@
       "online": "true",
       "import": false
     },
+   {
+      "name": " Tú+Yo - Solos contra todos ",
+      "image": "  https://media.themoviedb.org/t/p/w94_and_h141_face/mzgqiEhujCAZiaD6jNVYSXdqFXs.jpg ",
+      "url": " https://bysekoze.com/d/4kugggfhh59k ",
+      "info": " 2026 ",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
-      "name": "TURISTAS",
-      "info": "[2006][Español]",
+      "name": "Turistas",
+      "info": "2006",
       "image": "https://pics.filmaffinity.com/Turistas-439075858-mmed.jpg",
       "url": "https://pixeldrain.net/u/53cfqGe3",
       "isHost": "true",
@@ -10892,18 +10916,6 @@
       "info": "2024",
       "isHost": "true",
       "online": "true"
-    },
-    {
-      "name": "ULTIMO REFUGIO,EL",
-      "image": "https://pics.filmaffinity.com/for_morket-406589871-large.jpg",
-      "url": "https://pixeldrain.net/u/jArBU9gS",
-      "info": "[2025][Suspense, Drama]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
     },
     {
       "name": "UMAMI",
