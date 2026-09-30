@@ -1825,10 +1825,21 @@
 "import": false
 },
     {
-      "name": "BRIDGET JONES: LOCA POR EL",
+      "name": "Bridget Jones: loca por él ",
       "image": "https://i.postimg.cc/nhd8rzZk/IMG-20250323-192812-187.jpg",
-      "url": "https://pixeldrain.net/u/D1eVfmMX",
+      "url": "https://cdn.pixeldrain.eu.cc/D1eVfmMX",
       "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true"
+    },
+{
+      "name": "Bridget Jones: Sobreviviré  ",
+      "image": "https://media.themoviedb.org/t/p/w94_and_h141_face/ihtl1iygkMJ0K8QwzcW9P5hXVoW.jpg",
+      "url": "https://cdn.pixeldrain.eu.cc/FJyC9Axw",
+      "info": "2024",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "true",
       "referer": "",
