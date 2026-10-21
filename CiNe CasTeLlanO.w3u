@@ -1444,6 +1444,18 @@
       "online": "true",
       "import": false
     },
+{
+      "name": " Asesinato en Highland Manor ",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/rsZpzA7Ssu9m3X3fCcEDxjPXFet.jpg ",
+      "url": " https://bysewihe.com/d/1pnxjcgyrbsc ",
+      "info": " 2026",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
     {
       "name": " Asesinato en la Embajada ",
       "image": " https://pics.filmaffinity.com/murder_at_the_embassy-612160661-mmed.jpg ",
@@ -1714,6 +1726,18 @@
       "isHost": "true",
       "online": "true"
     },
+{
+      "name": " Bad Apples ",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/kFQaT7NuZvLx7hFmPhigaTedOOB.jpg ",
+      "url": " https://bysewihe.com/d/srlq8yis515u ",
+      "info": " 2026",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
     {
       "name": "Bajo un volcán",
       "image": "https://pics.filmaffinity.com/bajo_un_volcan-525944997-large.jpg",
@@ -1882,16 +1906,100 @@
 "online": "true",
 "import": false
 },
+{
+      "name": " Bean, lo último en cine catastrófico ",
+      "image": " https://pics.filmaffinity.com/bean_the_ultimate_disaster_movie-837107731-mmed.jpg ",
+      "url": " https://byseraguci.com/e/g39o6xhix6hi/bean-lo-último-en-cine-catastrófico ",
+      "info": "1997",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
+{
+      "name": " Beethoven 2: la familia crece ",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/lMjoADYBQHNIy3UdufxayFwCB2S.jpg ",
+      "url": " https://byseraguci.com/e/v9jgwjel1cyp/beethoven-2-la-familia-crece ",
+      "info": "1993",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
+{
+      "name": " Better Man ",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/ak7VgAaI94K6CbbFuL22xIBJtyE.jpg ",
+      "url": " https://byseraguci.com/e/gsh0gsaucxf1/better-man ",
+      "info": " 2025 ",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
+{
+      "name": " Big  ",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/ri6DEF9rul9Z0nOkPdTWHilZgJd.jpg ",
+      "url": " https://byseraguci.com/e/0jqmj03xvhb7/big ",
+      "info": " 1988 ",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
+{
+      "name": " Big fish ",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/m4gYCeV4GfGDw4PpMgU9kFIaNxP.jpg",
+      "url": " https://byseraguci.com/e/trg4u5lr4lfu/big-fish ",
+      "info": " 2003",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
     {
       "name": "Bikeriders, la ley del asfalto",
       "info": "2023",
 "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "image": "https://pics.filmaffinity.com/the_bikeriders-381842807-large.jpg",
-      "url": "https://pixeldrain.net/u/jFYBY49y",
+      "url": "https://byseraguci.com/e/d9e0m4an6y9x/bikeriders-la-ley-del-asfalto",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+{
+      "name": " Biker Boyz ",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/j7bMNFqacnWVxO7SLkWKYFzjiE3.jpg ",
+      "url": " https://byseraguci.com/e/xnkqwse40zk5/biker-boyz ",
+      "info": " 2003",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
+{
+      "name": " Birdman  ",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/8FC3R7ElysTIze9ooCYZnb6TR22.jpg ",
+      "url": " https://byseraguci.com/e/ub3n0prnfn9n/birdman ",
+      "info": " 2014",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
     {
       "name": "Bitelchus",
       "info": "1988",
@@ -1915,7 +2023,7 @@
     {
       "name": "Black friday",
       "image": "https://i.postimg.cc/hGdnqFJS/Black-Friday-2023-Pelicula.jpg",
-      "url": "https://pixeldrain.net/u/h8pfDxLA",
+      "url": "https://byseraguci.com/e/49evl69hj29m/black-friday ",
       "info": "2023",
 "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "true",
@@ -1927,7 +2035,7 @@
 {
       "name": "Black Panther",
       "image": "https://pics.filmaffinity.com/black_panther-992613805-mmed.jpg",
-      "url": "https://cdn.pixeldrain.eu.cc/6gFptyTQ",
+      "url": "https://byseraguci.com/e/9rktvvu1i1uk/black-panther-wakanda-forever",
       "info": " 2018 ",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "true",
@@ -6880,6 +6988,18 @@
       "import": false
     },
 {
+      "name": " Los ilusos 13+13 ",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/sOBWSYOIUNovslJ9XcKqWtXL0XO.jpg ",
+      "url": " https://bysewihe.com/d/blb0dkyxezet ",
+      "info": " 2026",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
+{
 "name": " Los miserables: El origen",
 "image": "https://pics.filmaffinity.com/jean_valjean-898059860-mmed.jpg",
 "url": "https://byseraguci.com/e/16scxyr1r0lu/los-miserables-el-origen",
@@ -6903,9 +7023,21 @@
       "online": "true",
       "import": false
 },
+{
+      "name": " Los últimos días de María Antonieta ",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/69jd8Vhr9LOdTspOUxDDaF5Q8Cj.jpg ",
+      "url": " https://bysewihe.com/d/7mr6lln0z2jv ",
+      "info": " 2024",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
     {
       "name": "Los vigilantes",
-      "info": "[2024][Español]",
+      "info": "2024",
       "image": "https://pics.filmaffinity.com/the_watchers-599911256-large.jpg",
       "url": "https://pixeldrain.net/u/DnMH1ntE",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -7913,6 +8045,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+      "name": " Morir no siempre sale bien ",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/la72AK13gJTvU5OfBquwJSuIhdJ.jpg ",
+      "url": " https://bysewihe.com/d/sc159dyczw7i ",
+      "info": " 2026",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
     {
       "name": "MR. BURTON",
       "image": "https://pics.filmaffinity.com/mr_burton-493783526-large.jpg",
