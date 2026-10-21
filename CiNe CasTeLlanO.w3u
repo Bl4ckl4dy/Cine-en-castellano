@@ -4029,6 +4029,16 @@
 "online": "true",
 "import": false
 },
+  {
+      "name": "El libro del amor",
+      "info": "2023",
+      "image": "https://i.postimg.cc/MZV1WzSd/Libro-del-amor-El-2022-Pelicula.jpg",
+      "url": "https://pixeldrain.net/u/VmZNBjqy",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true"
+    },
     {
       "name": "EL MANIQUI",
       "info": "[1987][Español]",
@@ -6760,20 +6770,10 @@
       "import": false
     },
     {
-      "name": "LIBRANOS DEL MAL",
+      "name": "Líbranos del mal",
       "info": "2014",
       "image": "https://pics.filmaffinity.com/Laibranos_del_mal-722448802-large.jpg",
       "url": "https://pixeldrain.net/u/JKmDAguA",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "LIBRO DEL AMOR, EL",
-      "info": "2023",
-      "image": "https://i.postimg.cc/MZV1WzSd/Libro-del-amor-El-2022-Pelicula.jpg",
-      "url": "https://pixeldrain.net/u/VmZNBjqy",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "true",
       "isHost": "true",
@@ -6808,7 +6808,7 @@
       "online": "true"
     },
     {
-      "name": "LIMONOV",
+      "name": "Limonov",
       "image": "https://i.postimg.cc/0y9rgGNX/IMG-20250430-213728-671.jpg",
       "url": "https://pixeldrain.net/u/vSdophL3",
       "info": "2024",
@@ -6856,7 +6856,7 @@
       "import": false
     },
     {
-      "name": "LO QUE EL VIENTO SE LLEVÓ",
+      "name": "Lo que el viento se llevó",
       "image": "https://pics.filmaffinity.com/gone_with_the_wind-432251527-large.jpg",
       "url": "https://pixeldrain.net/u/vscQ4ERc",
       "info": "1939",
@@ -6868,7 +6868,7 @@
       "import": false
     },
     {
-      "name": "LO QUE HAY DENTRO",
+      "name": "Lo que hay dentro",
       "image": "https://pics.filmaffinity.com/it_s_what_s_inside-784679476-large.jpg",
       "url": "https://pixeldrain.net/u/joVwAxEn",
       "info": "1939",
@@ -6891,8 +6891,20 @@
 "online": "true",
 "import": false
 },
+{
+      "name": " Los niños de Huang Shi ",
+      "image": " https://www.themoviedb.org/t/p/w600_and_h900_face/hq6jbC4F2FJu1WvA7NFbosiq9oQ.jpg ",
+      "url": " https://byseraguci.com/e/i2idb9055au4 ",
+      "info": " 2008",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
     {
-      "name": "LOS VIGILANTES",
+      "name": "Los vigilantes",
       "info": "[2024][Español]",
       "image": "https://pics.filmaffinity.com/the_watchers-599911256-large.jpg",
       "url": "https://pixeldrain.net/u/DnMH1ntE",
