@@ -6626,6 +6626,18 @@
       "online": "true",
       "import": false
     },
+{
+      "name": " KRAKEN ",
+      "image": " https://pics.filmaffinity.com/kraken-232386516-mmed.jpg ",
+      "url": " https://bysewihe.com/d/aakue3c46ens ",
+      "info": "2026",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
     {
       "name": "KRAVEN, THE HUNTER",
       "image": "https://pics.filmaffinity.com/kraven_the_hunter-206172064-large.jpg",
@@ -6942,6 +6954,18 @@
 "isHost": "true",
 "online": "true",
 "import": false
+},
+{
+      "name": " La silla ",
+      "image": " https://pics.filmaffinity.com/la_silla-974857699-mmed.jpg ",
+      "url": " https://bysewihe.com/d/bugrlh1uqjmp ",
+      "info": "2026",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
 },
     {
       "name": "LA VAQUILLA",
@@ -8485,6 +8509,18 @@
       "image": " https://pics.filmaffinity.com/please_don_t_feed_the_children-141601237-msmall.jpg  ",
       "url": " https://bysewihe.com/d/c3gauoelo0my ",
       "info": " 2025 ",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
+{
+      "name": " Noche fatídica ",
+      "image": "https://pics.filmaffinity.com/gajab_raat-370536915-mmed.jpg",
+      "url": " https://bysewihe.com/d/5wj8tf1z8a7s ",
+      "info": "2026",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "true",
       "referer": "",
