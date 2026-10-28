@@ -7,6 +7,18 @@
 "info": "by Virgin Mary",
 "stations": 
   [
+{
+      "name": " 200 vidas, Paco Rabal ",
+      "image": " https://pics.filmaffinity.com/200_vidas_paco_rabal_aka_paco_rabal_mas_alla_de_la_pantalla-256103878-mmed.jpg  ",
+      "url": " https://bysewihe.com/d/r0nucdy9yk73 ",
+      "info": " 2026 ",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
      {
       "name": "500 días juntos",
       "image": "https://pics.filmaffinity.com/500_days_of_summer-695902679-mmed.jpg",
@@ -2355,7 +2367,7 @@
 "import": false
 },
     {
-      "name": "CAIDA LIBRE",
+      "name": "Caída libre",
       "image": "https://pics.filmaffinity.com/free_fall-892687034-mmed.jpg",
       "url": "https://byseraguci.com/e/1p0mg3ee1y5b",
       "info": "2014",
@@ -2366,7 +2378,7 @@
       "import": false
     },
     {
-      "name": "CAERAS",
+      "name": "Caerás",
       "image": "https://pics.filmaffinity.com/fall_for_me-901974752-large.jpg",
       "url": "https://byseraguci.com/e/rnp9axwq2z8y",
       "info": "2025",
@@ -2484,63 +2496,31 @@
 "import": false
 },
     {
-      "name": "CARA A CARA (FACE OFF)",
+      "name": "Cara a cara (face off )",
       "image": "https://m.media-amazon.com/images/I/61Dv807JBvL._AC_UF894,1000_QL80_.jpg",
       "url": "https://pixeldrain.net/u/QgbtdmS1",
-      "info": "[Españo 1997]",
+      "info": "1997",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
-      "name": "CARA OCULTA, LA",
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/uTct6rbioNV5EnPDPJXGP2FRL45.jpg",
-      "url": "https://byseraguci.com/e/geh2ufm8kp2f/la-cara-oculta",
-      "info": "[2011][Suspense Misterio]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "CARAMELO",
+      "name": "Caramelo",
       "image": "https://pics.filmaffinity.com/caramelo-924889368-large.jpg",
       "url": "https://pixeldrain.net/u/VBB7MWk9",
-      "info": "[2025][Comedia Drama Familia]",
+      "info": "2025",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "true",
       "referer": "",
       "isHost": "true",
       "online": "true",
-      "import": false
-    },
-    {
-      "name": "CASA DE CERA, LA",
-      "info": "[2005][Español]",
-      "online": "true",
-      "image": "https://es.web.img2.acsta.net/pictures/14/02/18/12/32/332821.jpg",
-      "url": "https://filemoon.to/bdd/yeam80c7rlzb",
-      "isHost": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "CASA DE LOS SUSURROS, LA",
-      "image": "https://i.postimg.cc/2SsVpFhw/IMG-20241009-114452-961.jpg",
-      "url": "https://filemoon.to/d/h10mk5ng0x5t",
-      "info": "2024",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
 {
 "name": " Casa grande",
 "image": "https://pics.filmaffinity.com/casa_grande-904446680-mmed.jpg",
 "url": "https://byseraguci.com/e/re497wt6p51n",
-"info": "[2026]",
+"info": "2026",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "true",
@@ -2548,224 +2528,11 @@
 "online": "true",
 "import": false
 },
-    {
-      "name": "CASI FAMILIA",
-      "image": "https://es.web.img3.acsta.net/img/d7/78/d778554bb6e1203623561245855c2784.jpg",
-      "url": "https://filemoon.to/d/bdibhy8qnodp",
-      "info": "2025",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "CASO FRIEDA, EL",
-      "image": "https://pics.filmaffinity.com/friedas_fall-140570582-large.jpg",
-      "url": "https://filemoon.to/d/a8wfoggraovo/El_caso_Frieda_2024_Pelicula_Castellano.mp4",
-      "info": "[2024]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "CASOPLON, EL",
-      "image": "https://pics.filmaffinity.com/el_casoplon-993095418-large.jpg",
-      "url": "https://pixeldrain.net/u/hShkHWyd",
-      "info": "[2025]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "CASSANDRO",
-      "info": "2023",
-      "image": "https://i.postimg.cc/5ynnWVLh/Cassandro-2023-Pelicula.jpg",
-      "url": "https://upstream.to/jsqkw4322j60",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "CASTIGO, EL",
-      "image": "https://pics.filmaffinity.com/el_castigo-747465596-large.jpg",
-      "url": "https://listeamed.net/v/PKN4Owz1JbnEDLj",
-      "info": "2022",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "CAUTIVO, EL",
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/2vfxMQ3WEA8goCH7LXlAzED9aed.jpg",
-      "url": "https://byseraguci.com/e/jz4pbtypa5pc",
-      "info": "[2025][Drama, historia]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "CAZA AL ESTAFADOR",
-      "image": "https://pics.filmaffinity.com/cold_wallet-518358435-large.jpg",
-      "url": "https://filemoon.to/d/cc07zjplhcgj/Caza_al_estafador",
-      "info": "[2025][SUSPENSE]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "CAZA, LA",
-      "info": "[2012][Español]",
-      "image": "https://pics.filmaffinity.com/jagten_the_hunt-754157806-large.jpg",
-      "url": "https://filemoon.to/d/2ejd4dazgk48",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "CAZADOR DE RECOMPENSAS, EL",
-      "info": "2022",
-      "image": "https://i.postimg.cc/cLnDGtGt/Cazador-de-recompensas-El-2022-Pelicula.jpg",
-      "url": "https://upstream.to/5evp7ku0aw3t",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "CAZAFANTASMAS, IMPERIO HELADO",
-      "image": "https://pics.filmaffinity.com/ghostbusters_frozen_empire-289306563-large.jpg",
-      "url": "https://upstream.to/79pnp7btyy5l",
-      "info": "[2024]",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "La cena, La",
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/8Ct1yY0ClGwgQpnsipRcaFC27xF.jpg",
-      "url": "https://byseraguci.com/e/tto8kfofecyx/la-cena",
-      "info": "[2025]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "CHICA SALVAJE",
-      "info": "[2022][Español]",
-      "image": "https://pics.filmaffinity.com/La_chica_salvaje-490808897-large.jpg",
-      "url": "https://filemoon.to/d/8sslp46ltu1p",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "LA CHICA DE LA AGUJA",
-      "image": "https://pics.filmaffinity.com/pigen_med_nalen-156798592-large.jpg",
-      "url": "https://filemoon.to/d/65890sidoqsh/La_chica_de_la_aguja",
-      "info": "[2024]",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "CHICA MAS HERMOSA DEL MUNDO, LA",
-      "image": "https://i.postimg.cc/1RYfpRLz/the-most-beautiful-girl-in-the-world-2025.jpg",
-      "url": "https://nikaplayerr.com/file/6lecpbjekok2",
-      "info": "2025",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "CHICA MILLER, LA",
-      "info": "[2024][Español]",
-      "image": "https://images.justwatch.com/poster/311776914/s718/millers-girl.jpg",
-      "url": "https://susanhavekeep.com/e/knvo7sdlj6wq",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "CHICAS DE LA ESTACION, LAS",
-      "image": "https://i.postimg.cc/43qWcmcs/IMG-20250407-232112-137.jpg",
-      "url": "https://filemoon.to/d/e00mijc3qx5a",
-      "info": "2024",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "CHICAS MATERIALES",
-      "image": "https://pics.filmaffinity.com/material_girls-246266209-large.jpg",
-      "url": "https://filemoon.to/d/zwxehdori0oa/Chicas_materiales",
-      "info": "[2006][Comedia]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "CID LA LEYENDA, EL",
-      "info": "2020",
-      "image": "https://i.postimg.cc/0jxLhcnd/Cid-la-Leyenda-El-2020-Pelicula.jpg",
-      "url": "https://filemoon.to/d/2xzzhcwjh0fy/Cid_Leyenda__2020_Pelicula_.mp4",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "CITA, LA",
-      "image": "https://i.postimg.cc/HnMCzFy7/IMG-20250514-191644-291.jpg",
-      "url": "https://filemoon.to/d/8iyns88yjxqa",
-      "info": "2025",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true"
-    },
 {
-"name": " CIUDAD SIN SUEÑO",
+"name": " Ciudad sin sueño",
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/2htV575gy8jr7MoHJDWonNAA9im.jpg",
 "url": "https://byseraguci.com/e/9cvdm5gr7xyk/ciudad-sin-sueño",
-"info": "[2025]",
+"info": "2025",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "true",
@@ -2774,62 +2541,18 @@
 "import": false
 },
     {
-      "name": "CIVIL WAR",
+      "name": "Civil war",
       "image": "ttps://pics.filmaffinity.com/civil_war-397793862-large.jpg",
       "url": "https://pixeldrain.net/u/LeayxBa5",
-      "info": "[2024][Español]",
+      "info": "2024",
       "embed": "true",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-    {
-      "name": "EL CLUB DE LAS LUCHADORAS",
-      "image": "ttps://pics.filmaffinity.com/bottoms-718154109-large.jpg",
-      "url": "https://pixeldrain.net/u/1EdDbxsS",
-      "info": "2023",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "CLUB DE LOS LECTORES CRIMINALES, EL",
-      "info": "2022",
-      "image": "https://i.postimg.cc/qMPycds6/Club-de-los-lectores-criminales-El-2022-Pelicula.jpg",
-      "url": "https://www.linkbox.to/a/f/zHYxnPP?d=true",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "CLUB DE LOS MILAGROS, EL",
-      "image": "https://i.postimg.cc/fkQwxzM4/IMG-20250208-131711-472.jpg",
-      "url": "https://swishsrv.com/e/u87ua53u63nx",
-      "info": "2025",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "EL CLUB DEL CRIMEN DE LOS JUEVES",
-      "image": "https://pics.filmaffinity.com/the_thursday_murder_club-887366996-large.jpg",
-      "url": "https://pixeldrain.net/u/GKopCFCK",
-      "info": "[2025]",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "import": false
-    },
-{
-"name": "COARTADAS",
+   {
+"name": "Coartadas",
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/7Cpg0NQc2gZZfiBPRXfSwtXNKuq.jpg",
 "url": "https://pixeldrain.net/api/file/3V4sBMxN",
 "info": "[2025]",
@@ -2841,7 +2564,7 @@
 "import": false
 },
     {
-      "name": "EL CODIGO DA VINCI",
+      "name": "El código Da Vinci",
       "image": "https://pics.filmaffinity.com/the_da_vinci_code-343447182-large.jpg",
       "url": "https://pixeldrain.net/u/Bw7gwN6X",
       "info": "2006",
@@ -2853,91 +2576,7 @@
       "import": false
     },
     {
-      "name": "El CODIGO EMPERADOR",
-      "image": "https://es.web.img2.acsta.net/pictures/21/12/13/18/04/2134016.jpg",
-      "info": "[2022]",
-      "url": "https://filemoon.to/d/noiuiedxlaft",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "COLEGA DONDE ESTA MI COCHE",
-      "image": "https://pics.filmaffinity.com/dude_where_s_my_car-919078711-large.jpg",
-      "url": "https://listeamed.net/v/ao9rxoJB1W95yGe",
-      "info": "2000",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "COLIBRI, EL",
-      "image": "https://pics.filmaffinity.com/il_colibri-535851656-large.jpg",
-      "url": "https://upstream.to/7yfkq47muzy6",
-      "info": "2022",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "COLLECTIVE, THE",
-      "image": "https://pics.filmaffinity.com/the_collective-992601883-large.jpg",
-      "url": "https://filemoon.to/d/zwun5jzki8cr/The_Collective__2023__Pelicula_castellano_.mp4",
-      "info": "2023",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "COLMENA, LA",
-      "info": "[1982][Español]",
-      "image": "https://pics.filmaffinity.com/La_colmena-131368036-large.jpg",
-      "url": "https://ok.ru/video/7284201622063",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "COLMILLO BLANCO",
-      "image": "https://pics.filmaffinity.com/jack_london_s_white_fang-708430619-large.jpg",
-      "url": "https://listeamed.net/v/wP20501KKZBxdmy",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "info": "1991",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "COMBUSTION",
-      "image": "https://pics.filmaffinity.com/combustion-398475316-large.jpg",
-      "url": "https://filemoon.to/d/6u11eyeqjhhw",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "info": "[Español][2013]",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "COMO ACABAR SIN TU JEFE 2",
-      "image": "https://es.web.img3.acsta.net/c_310_420/pictures/14/11/05/11/26/237867.jpg",
-      "info": "[Español][2014]",
-      "url": "https://filemoon.to/d/hxkj9wlizsry",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "COMO DIOS",
+      "name": "Como Dios",
       "image": "https://pics.filmaffinity.com/como_dios_manda-689886286-large.jpg",
       "url": "https://pixeldrain.net/u/6uWhSgFv",
       "info": "2023",
@@ -2945,29 +2584,6 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "COMO SER JOHN MALKOVIC",
-      "image": "https://pics.filmaffinity.com/being_john_malkovich-576254491-large.jpg",
-      "url": "https://filemoon.to/d/f57pca3p891k/Como_ser_John_Malkovich__1999_Pelicula__1080p_Cast_mkv.mp4",
-      "info": "1999",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "COMPLETO DESCONOCIDO, UN",
-      "image": "https://i.postimg.cc/3Nt3XVTj/IMG-20250319-192019.jpg",
-      "url": "https://pixeldrain.net/u/6nWj8Qwa",
-      "info": "2024",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
       "import": false
     },
     {
@@ -4178,6 +3794,53 @@
       "import": false
 },
 {
+      "name": "El casoplón",
+      "image": "https://pics.filmaffinity.com/el_casoplon-993095418-large.jpg",
+      "url": "https://pixeldrain.net/u/hShkHWyd",
+      "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": " El cautivo",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/2vfxMQ3WEA8goCH7LXlAzED9aed.jpg",
+      "url": "https://byseraguci.com/e/jz4pbtypa5pc",
+      "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "El club de las luchadoras",
+      "image": "ttps://pics.filmaffinity.com/bottoms-718154109-large.jpg",
+      "url": "https://pixeldrain.net/u/1EdDbxsS",
+      "info": "2023",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+ {
+      "name": "El club del crimen de los jueves",
+      "image": "https://pics.filmaffinity.com/the_thursday_murder_club-887366996-large.jpg",
+      "url": "https://pixeldrain.net/u/GKopCFCK",
+      "info": "2025",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "import": false
+    },
+{
       "name": " El club gourmet  ",
       "image": " https://pics.filmaffinity.com/madklubben_hjemme_igen-376506115-msmall.jpg  ",
       "url": " https://bysewihe.com/d/pa5xldsdmaa0 ",
@@ -4270,6 +3933,17 @@
       "embed": "true",
       "isHost": "true",
       "online": "true"
+    },
+{
+      "name": "El maestro que prometió el mar",
+      "image": "https://pics.filmaffinity.com/el_mestre_que_va_prometre_el_mar-903273076-large.jpg",
+      "url": "https://pixeldrain.net/u/1aTcFYrE",
+      "info": "2023",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "EL MANIQUI",
@@ -6627,7 +6301,7 @@
       "import": false
     },
 {
-      "name": " KRAKEN ",
+      "name": " Kraken ",
       "image": " https://pics.filmaffinity.com/kraken-232386516-mmed.jpg ",
       "url": " https://bysewihe.com/d/aakue3c46ens ",
       "info": "2026",
@@ -6639,7 +6313,7 @@
       "import": false
 },
     {
-      "name": "KRAVEN, THE HUNTER",
+      "name": "Kraven , the hunter",
       "image": "https://pics.filmaffinity.com/kraven_the_hunter-206172064-large.jpg",
       "url": "https://pixeldrain.net/u/T1zD9QE5",
       "info": "2024",
@@ -6661,72 +6335,6 @@
       "online": "true",
       "import": false
 },
-    {
-      "name": "LADO DULCE DE LA TRAICION, EL",
-      "image": "https://pics.filmaffinity.com/o_lado_bom_de_ser_traida-659640956-large.jpg",
-      "url": "https://listeamed.net/v/MAlwEMe1Za4EJ39",
-      "info": "2023",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "LADRONAS",
-      "image": "https://pics.filmaffinity.com/voleuses-186647442-large.jpg",
-      "url": "",
-      "info": "2023",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "LADY SAKURA",
-      "image": "https://i.postimg.cc/0ynhVmWK/IMG-20250413-143638-618.jpg",
-      "url": "https://filemoon.to/d/ks3ecziipoff",
-      "info": "2025",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "LAMB",
-      "image": "https://pics.filmaffinity.com/lamb-172164023-large.jpg",
-      "url": "https://filemoon.to/d/5kfrsm6266xi/Lamb_2021_Pelicula.mp4",
-      "info": "2021",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "LAMBORGHINI, EL HOMBRE DETRAS DE UNA LEYENDA",
-      "image": "https://pics.filmaffinity.com/lamborghini_the_legend-277163537-large.jpg",
-      "url": "https://embedv.net/v/b4ZJx2L8LzO2P3R",
-      "info": "2022",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "LAURA Y EL MISTERIO DE LA NOVIA QUE ESPERO DEMASIADO",
-      "image": "https://pics.filmaffinity.com/laura_y_el_misterio_de_la_novia_que_espero_demasiado-358302813-large.jpg",
-      "url": "https://upstream.to/rrqygxg5jdb5",
-      "info": "[Español 2023]",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
 {
 "name": "La batalla de los ángeles",
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/guOIn7uP2tVVz6IcE3byMOwY13x.jpg",
@@ -6743,7 +6351,7 @@
 "name": " La boda",
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/aMLphoNMfSyxVftCoIpnBNAYQzL.jpg",
 "url": "https://byseraguci.com/e/dudcih6n2uhg/la-boda",
-"info": "[2026]",
+"info": "2026",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "true",
@@ -6755,7 +6363,7 @@
 "name": " La buena estrella ",
 "image": "https://pics.filmaffinity.com/la_bonne_etoile-700258111-mmed.jpg",
 "url": "https://byseraguci.com/e/h3t8gmimjbu2/la-buena-estrella",
-"info": "[2025]",
+"info": "2025",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "true",
@@ -6764,13 +6372,135 @@
 "import": false
 },
     {
-      "name": "LA BUSQUEDA",
-      "info": "[2004][Español]",
+      "name": "La búsqueda",
+      "info": "2004",
       "image": "https://es.web.img2.acsta.net/pictures/14/05/06/11/52/354666.jpg",
       "url": "https://pixeldrain.net/u/bh7RQUNt",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+    },
+ {
+      "name": "La cara oculta",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/uTct6rbioNV5EnPDPJXGP2FRL45.jpg",
+      "url": "https://byseraguci.com/e/geh2ufm8kp2f/la-cara-oculta",
+      "info": "2011",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "  La casa en el árbol   ",
+      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/gogohugn7XWmDoaUewGh0H7ipG9.jpg ",
+      "url": " https://bysewihe.com/e/qrg4ixndpg7t ",
+      "info": "2026",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
+{
+      "name": "La cena",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/8Ct1yY0ClGwgQpnsipRcaFC27xF.jpg",
+      "url": "https://byseraguci.com/e/tto8kfofecyx/la-cena",
+      "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "La ciudad de la alegría",
+      "info": "1992",
+      "image": "https://es.web.img2.acsta.net/medias/nmedia/18/95/58/14/20416009.jpg",
+      "url": "https://pixeldrain.net/u/KXDtXyHD",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+   {
+      "name": " La constelación del perro ",
+      "image": " https://pics.filmaffinity.com/the_dog_stars-989476429-mmed.jpg  ",
+      "url": " https://bysewihe.com/d/1jis6tdlg16x ",
+      "info": "2026",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
+{
+"name": " La familia Glenrothan ",
+"image": "https://pics.filmaffinity.com/glenrothan-420064195-mmed.jpg",
+"url": "https://byseraguci.com/e/j40a543e93f9/la-familia-glenrothan",
+"info": "2026",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+    {
+      "name": "La fuente de la juventud",
+      "info": "2025",
+      "image": "https://pics.filmaffinity.com/La_fuente_de_la_eterna_juventud-109538437-large.jpg",
+      "url": "https://pixeldrain.net/u/hKGNT1vZ",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "La furia",
+      "info": "2025",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTI2ZDlkNGItNGEzZC00ZGVmLWE4ODItZDY4NWRhZTJhMTBmXkEyXkFqcGc@._V1_.jpg",
+      "url": "https://pixeldrain.net/u/qfZMg3Qd",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+{
+"name": " La herencia del mal",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/uAcnQS3dl7i40DjnWzzQLg87q4E.jpg",
+"url": "https://byseraguci.com/e/keu8q5ofthoq",
+"info": "2026",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+    {
+      "name": "La lengua de las mariposas",
+      "info": "1999",
+      "image": "https://pics.filmaffinity.com/La_lengua_de_las_mariposas-374462450-large.jpg",
+      "url": "https://bysetayico.com/d/n22tho0iqbor",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+{
+      "name": " La maison",
+      "image": "https://pics.filmaffinity.com/la_maison-549555491-large.jpg",
+      "url": "https://pixeldrain.net/u/Z9P6yVWv",
+      "info": "2022",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
 {
       "name": "  Las cartas de la vida    ",
@@ -6785,127 +6515,10 @@
       "import": false
 },
 {
-      "name": "  La casa en el árbol   ",
-      "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/gogohugn7XWmDoaUewGh0H7ipG9.jpg ",
-      "url": " https://bysewihe.com/e/qrg4ixndpg7t ",
-      "info": "2026",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-},
-    {
-      "name": "LA CIUDAD DE LA ALEGRIA",
-      "info": "[1992][Español]",
-      "image": "https://es.web.img2.acsta.net/medias/nmedia/18/95/58/14/20416009.jpg",
-      "url": "https://pixeldrain.net/u/KXDtXyHD",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "LA COLA DEL DIABLO",
-      "info": "[2024][Español]",
-      "image": "https://image.tmdb.org/t/p/original/tEzQjjSR3ZtvpSKrkTi2PxeLBuM.jpg",
-      "url": "https://filemoon.to/d/c2gcihdvf4xy",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-{
-"name": " La familia Glenrothan ",
-"image": "https://pics.filmaffinity.com/glenrothan-420064195-mmed.jpg",
-"url": "https://byseraguci.com/e/j40a543e93f9/la-familia-glenrothan",
-"info": "[2026]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "true",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-    {
-      "name": "LA FUENTE DE LA JUVENTUD",
-      "info": "[2025][Español]",
-      "image": "https://pics.filmaffinity.com/La_fuente_de_la_eterna_juventud-109538437-large.jpg",
-      "url": "https://pixeldrain.net/u/hKGNT1vZ",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "LA FURIA",
-      "info": "[2025][Español]",
-      "image": "https://m.media-amazon.com/images/M/MV5BZTI2ZDlkNGItNGEzZC00ZGVmLWE4ODItZDY4NWRhZTJhMTBmXkEyXkFqcGc@._V1_.jpg",
-      "url": "https://pixeldrain.net/u/qfZMg3Qd",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "LA GRANJA [THE FARM]",
-      "info": "[2018][Español]",
-      "image": "https://m.media-amazon.com/images/M/MV5BNGMxYTYyZjMtNDFjYi00MDkyLTlhOTEtMzNlZGFlNWIyOTczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "url": "https://filemoon.to/d/kdq5k8az6882",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "LA GUERRA DE LOS MUNDOS",
-      "info": "[2025][Español]",
-      "image": "https://i.postimg.cc/VNrbbg1Q/GUERRA.jpg",
-      "url": "https://filemoon.to/d/y3itamxhxp4o",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-{
-"name": " La herencia del mal",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/uAcnQS3dl7i40DjnWzzQLg87q4E.jpg",
-"url": "https://byseraguci.com/e/keu8q5ofthoq",
-"info": "[2026]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "true",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-    {
-      "name": "LA HUELLA DEL MAL",
-      "info": "[2025][Español]",
-      "image": "https://m.media-amazon.com/images/I/81Z7I8t8IyL._UF894,1000_QL80_.jpg",
-      "url": "https://filemoon.to/d/8u76o0xa1cn0",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "LA LENGUA DE LAS MARIPOSAS",
-      "info": "[1999][Español]",
-      "image": "https://pics.filmaffinity.com/La_lengua_de_las_mariposas-374462450-large.jpg",
-      "url": "https://bysetayico.com/d/n22tho0iqbor",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "LA LIBERACION",
-      "info": "[2024][Español]",
-      "image": "https://pics.filmaffinity.com/La_liberaciaon-199592217-large.jpg",
-      "url": "https://filemoon.to/d/0oeswmwgjyry",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-{
 "name": "Las líneas discontinuas ",
 "image": "https://pics.filmaffinity.com/as_linas_descontinuas-356457295-mmed.jpg",
 "url": "https://byseraguci.com/e/uedzod4jcuzg/las-líneas-discontinuas",
-"info": "[2026]",
+"info": "2026",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "true",
@@ -6917,7 +6530,7 @@
 "name": " La noche de los muertos vivientes. Estallido zombi ",
 "image": "https://pics.filmaffinity.com/night_of_the_living_dead-828164802-mmed.jpg",
 "url": "https://byseraguci.com/e/hdn9wy6sy7q6/la-noche-de-los-muertos-vivientes-estallido-zombi",
-"info": "[2026]",
+"info": "2026",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "true",
@@ -6925,29 +6538,11 @@
 "online": "true",
 "import": false
 },
-    {
-      "name": "LA OTRA CARA DE LA LUNA",
-      "info": "[2024][Español]",
-      "image": "https://pics.filmaffinity.com/fly_me_to_the_moon-279859131-large.jpg",
-      "url": "https://filemoon.to/d/zm92ewuspacz",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "LA REINA DEL CONVENTO",
-      "info": "[2024][Español]",
-      "image": "https://pics.filmaffinity.com/La_reina_del_convento-845921689-large.jpg",
-      "url": "https://filemoon.to/d/oeqmqtxz78z3",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
 {
 "name": " La residencIA ",
 "image": "https://pics.filmaffinity.com/dalloway-785798049-mmed.jpg",
 "url": "https://byseraguci.com/e/hlioi6vwq04u/la-residencia",
-"info": "[2025]",
+"info": "2025",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "true",
@@ -6967,87 +6562,14 @@
       "online": "true",
       "import": false
 },
-    {
-      "name": "LA VAQUILLA",
-      "info": "[1985][Español]",
-      "image": "https://m.media-amazon.com/images/I/51-kfG4DaDL._AC_UF894,1000_QL80_.jpg",
-      "url": "https://ok.ru/video/7536371698358",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": ""
-    },
-    {
-      "name": "LAS LEYES DE LA FRONTERA",
-      "info": "[2021][Español]",
+{
+      "name": "Las leyes de la frontera",
+      "info": "2021",
       "image": "https://pics.filmaffinity.com/Las_leyes_de_la_frontera-666264674-large.jpg",
       "url": "https://pixeldrain.net/u/FWMijvT8",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "THE LAST: : NARUTO LA PELICULA",
-      "info": "[2014][Español]",
-      "image": "https://pics.filmaffinity.com/The_Last_Naruto_the_Movie-717576587-large.jpg",
-      "url": "https://filemoon.top/e/c8vvbwlfl4gm/_AnimeOnlineNinja__Naruto_Shippuden_Movie_Castellano_07",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "LECCIÓN DE PIANO, LA",
-      "image": "https://i.postimg.cc/k5V7WmyD/IMG-20241123-092437-035.jpg",
-      "url": "https://filemoon.to/d/ssf34vfgdvln",
-      "info": "2024",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "LEGADO EN LOS HUESOS",
-      "image": "https://pics.filmaffinity.com/Legado_en_los_huesos-614158704-large.jpg",
-      "url": "https://filemoon.to/d/2so44ynjtoe6",
-      "info": "[2019][Español]",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "LEJOS DEL CIELO",
-      "image": "https://pics.filmaffinity.com/far_from_heaven-171600081-large.jpg",
-      "url": "https://filemoon.to/d/09wqq0q4k0w8",
-      "info": "[2002][Español]",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "LEON POR UN DIA",
-      "image": "https://i.postimg.cc/tCPbQVXL/Leon-por-un-dia-2023-Pelicula.jpg",
-      "url": "https://upstream.to/ujzskrk4395c",
-      "info": "2023",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "LETRA CON SANGRE ENTRA, LA",
-      "image": "https://pics.filmaffinity.com/last_the_night_aka_pacerville-102277706-large.jpg",
-      "url": "https://filemoon.to/d/6qr99afub2xb/Letra_con_sangre_entra__La__2022__Pelicula.mp4",
-      "info": "2022",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
     },
     {
       "name": "Líbranos del mal",
@@ -7056,34 +6578,6 @@
       "url": "https://pixeldrain.net/u/JKmDAguA",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "true",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "LIBRO NEGRO, EL",
-      "info": "2006",
-      "image": "https://pics.filmaffinity.com/zwartboek_black_book-397886486-large.jpg",
-      "url": "https://listeamed.net/v/0DogOGWNAJ7OKjM",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "LIKE DOGS",
-      "image": "https://m.media-amazon.com/images/S/pv-target-images/0a3254da10b1706dd2839943d8e8b48e0be8911792556df6ff44451890792466.jpg",
-      "url": "https://filemoon.to/d/2dd0w4q3i1yc",
-      "info": "[Español][2021]",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "LILO & STITCH",
-      "image": "https://moviepostermexico.com/cdn/shop/files/lilo_and_stitch_xlg.jpg",
-      "url": "https://filemoon.to/d/cnodhta5lxzw",
-      "info": "[Español][2025]",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "isHost": "true",
       "online": "true"
     },
@@ -7099,23 +6593,11 @@
       "online": "true",
       "import": false
     },
-    {
-      "name": "LIMPIA",
-      "image": "https://pics.filmaffinity.com/limpia-648553902-large.jpg",
-      "url": "https://filemoon.to/d/of34p4vsl1vb/Limpia_Pelicula_Castellano.mp4",
-      "info": "[2025]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
 {
 "name": " Línea de extinción  ",
 "image": "https://pics.filmaffinity.com/elevation-279786121-mmed.jpg",
 "url": "https://byseraguci.com/e/vdlamp6bdbk2/línea-de-extinción",
-"info": "[2024]",
+"info": "2024",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "true",
@@ -7123,18 +6605,6 @@
 "online": "true",
 "import": false
 },
-    {
-      "name": "LIZZIE SUPERSTAR",
-      "image": "https://pics.filmaffinity.com/the_lizzie_mcguire_movie-350644084-large.jpg",
-      "url": "https://filemoon.to/d/7wmsx8an16o7/Lizzie_Superstar",
-      "info": "[2003][Aventura Comedia Familia]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
     {
       "name": "Lo que el viento se llevó",
       "image": "https://pics.filmaffinity.com/gone_with_the_wind-432251527-large.jpg",
@@ -7175,7 +6645,7 @@
 "name": " Los miserables: El origen",
 "image": "https://pics.filmaffinity.com/jean_valjean-898059860-mmed.jpg",
 "url": "https://byseraguci.com/e/16scxyr1r0lu/los-miserables-el-origen",
-"info": "[2026]",
+"info": "2026",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "true",
@@ -7220,44 +6690,8 @@
       "import": false
     },
     {
-      "name": "LOBOS",
-      "image": "https://i.postimg.cc/zvXsSyZQ/MV5-BYj-Zk-MGFm-OTAt-ZTM5-My00-ZDk1-LWE5-Yj-Et-MDRk-Y2-Fi-MTQ1-ZDE2-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
-      "url": "https://filemoon.to/d/8d537fd13wek",
+      "name": "Longlegs",
       "info": "2024",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "LOCK and STOCK",
-      "info": "[1998][Español]",
-      "image": "https://pics.filmaffinity.com/lock_stock_and_two_smoking_barrels-536698978-large.jpg",
-      "url": "https://filemoon.to/d/0lc6pdfe0kr6",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "LOCOS DE AMOR, MI PRIMER AMOR",
-      "image": "https://pics.filmaffinity.com/locos_de_amor_mi_primer_amor-925111099-large.jpg",
-      "url": "https://filemoon.to/d/std4p5scps97/Locos_de_amor_mi_primer_amor",
-      "info": "[2025][Audio Latino][Comedia]",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "import": false
-    },
-    {
-      "name": "LONGLEGS",
-      "info": "[2024][Español]",
       "image": "https://pics.filmaffinity.com/Longlegs-983258407-large.jpg",
       "url": "https://pixeldrain.net/u/fujeZnq7",
       "userAgent": "PlusMediaPlayer/0.0.9",
@@ -7280,22 +6714,10 @@
       "import": false
 },
     {
-      "name": "LOVE AGAIN",
-      "info": "2023",
-      "image": "https://i.postimg.cc/5tJthzRF/Love-again-2023-Pelicula.jpg",
-      "url": "https://upstream.to/cj6dpxw7yp9c",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "LOVE STORY",
+      "name": "Love story",
       "image": "https://m.media-amazon.com/images/I/A1Z5rN-xRPL._AC_UF894,1000_QL80_.jpg",
       "url": "https://pixeldrain.net/u/uPz1JpxV",
-      "info": "[Español][1970]",
+      "info": "1970",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "true",
       "referer": "",
@@ -7304,74 +6726,7 @@
       "import": false
     },
     {
-      "name": "LOVE-WAR",
-      "image": "https://pics.filmaffinity.com/love_war-392718587-large.jpg",
-      "url": "https://filemoon.to/d/8pei2a7k7th6/Love_War",
-      "info": "[2025][Bélico, documental]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "LUGAR MARAVILLOSO, UN",
-      "image": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/83/91/20165847.jpg",
-      "url": "https://filemoon.to/d/37i5lfe5yw93",
-      "info": "[Español-Vose.Sub][2004]",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "LUGAR TRANQUILO, UN. DIA 1",
-      "image": "https://pics.filmaffinity.com/a_quiet_place_day_one-758712709-large.jpg",
-      "url": "https://listeamed.net/v/e028E6R1doQEYAv",
-      "info": "[2024][Español]",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "LUNA DE MIEL CON MAMÁ",
-      "image": "https://i.postimg.cc/cJxY4L4X/IMG-20250213-190736-253.jpg",
-      "url": "https://nikaplayerr.com/file/xvu2j8h23x24",
-      "info": "2025",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "LLUVIA ÁCIDA",
-      "image": "https://pics.filmaffinity.com/acide-477650327-mmed.jpg",
-      "url": "https://filemoon.to/d/tq0pki41myap/Ver_Lluvia__cida_Online_Castellano_2023_Pelicula_-_HDFull.mp4",
-      "info": "[2024][Español]",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "MACHINE, THE",
-      "info": "2023",
-      "image": "https://i.postimg.cc/hGyX5HtY/Machine-The-HDRip-2023-Pelicula.jpg",
-      "url": "https://upstream.to/xdf8xkvd9h66",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "MADAME WEB",
+      "name": "Madame web ",
       "info": "2024",
       "image": "https://pics.filmaffinity.com/madame_web-759178425-large.jpg",
       "url": "https://pixeldrain.net/u/4QoM6gAE",
@@ -7381,32 +6736,10 @@
       "online": "true"
     },
     {
-      "name": "MAESTRO JARDINERO, EL",
-      "image": "https://pics.filmaffinity.com/master_gardener-633878579-large.jpg",
-      "url": "https://upstream.to/yw7fpmxar196",
-      "info": "2023",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "MAESTRO QUE PROMETIÓ EL MAR, EL",
-      "image": "https://pics.filmaffinity.com/el_mestre_que_va_prometre_el_mar-903273076-large.jpg",
-      "url": "https://pixeldrain.net/u/1aTcFYrE",
-      "info": "2023",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
       "name": "MAFIA MAMMA",
       "image": "https://pics.filmaffinity.com/mafia_mamma-444090523-large.jpg",
       "url": "https://vidmoly.to/embed-1h62mh3v82le.html",
-      "info": "[2023]",
+      "info": "2023",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "true",
       "referer": "",
@@ -7426,30 +6759,7 @@
       "online": "true",
       "import": false
 },
-    {
-      "name": "MAGAZINE DREAMS",
-      "image": "https://pics.filmaffinity.com/magazine_dreams-978650838-large.jpg",
-      "url": "https://filemoon.to/d/l979goq1tzti/Magazine_Dreams",
-      "info": "[2023][Drama]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "MAISON, LA",
-      "image": "https://pics.filmaffinity.com/la_maison-549555491-large.jpg",
-      "url": "https://pixeldrain.net/u/Z9P6yVWv",
-      "info": "2022",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
+{
       "name": "MAIXABEL",
       "info": "[2021][Español]",
       "image": "https://pics.filmaffinity.com/Maixabel-491379276-large.jpg",
@@ -11279,6 +10589,18 @@
       "import": false
     },
 {
+      "name": " The Get Out  ",
+      "image": " https://pics.filmaffinity.com/the_get_out-222126897-mmed.jpg ",
+      "url": " https://bysewihe.com/d/3fx2msexcv36 ",
+      "info": "2026",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+},
+{
 "name": " The Jurassic Games: Extinction  ",
 "image": "https://pics.filmaffinity.com/the_jurassic_games_extinction-604251119-mmed.jpg",
 "url": "https://byseraguci.com/e/epctnnjonr3s/the-jurassic-games-extinction",
@@ -11809,6 +11131,18 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+ {
+      "name": "Un completo desconocido",
+      "image": "https://i.postimg.cc/3Nt3XVTj/IMG-20250319-192019.jpg",
+      "url": "https://pixeldrain.net/u/6nWj8Qwa",
+      "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
     {
