@@ -3732,6 +3732,18 @@
 "online": "true",
 "import": false
 },
+{
+"name": " Drive, los farsantes ",
+"image": "https://pics.filmaffinity.com/drive_the_pretenders-155709738-mmed.jpg",
+"url": "https://bysewihe.com/d/14c7ehcxvhax",
+"info": "2026",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "DUAL",
       "image": "https://pics.filmaffinity.com/dual-155453589-large.jpg",
@@ -11514,6 +11526,18 @@
       "embed": "true",
       "isHost": "true",
       "online": "true"
+    },
+ {
+      "name": "Verity. La sombra de un engaño",
+      "image": "https://pics.filmaffinity.com/verity-273395489-mmed.jpg",
+      "url": "https://bysewihe.com/d/1ye9755ivv9y",
+      "info": "2026",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
     },
     {
       "name": "VESPER",
