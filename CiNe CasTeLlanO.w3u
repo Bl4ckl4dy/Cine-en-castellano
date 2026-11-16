@@ -2719,16 +2719,17 @@
       "import": false
     },
 {
-      "name": "Di que sí",
-      "image": "https://pics.filmaffinity.com/yes_man-597620171-large.jpg",
-      "url": "https://pixeldrain.net/u/b5CWw6U9",
-      "info": "1994",
+      "name": "Devuélvemela",
+      "image": "https://image.tmdb.org/t/p/w300/cl3VbcYxzWnDPetd7SbdhSxwWoL.jpg",
+      "url": "https://byseraguci.com/e/g1v8pi69tucy",
+      "info": "2025",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "true",
+      "referer": "",
       "isHost": "true",
       "online": "true",
       "import": false
-    },
+    }, 
     {
       "name": "Diablo",
       "image": "https://image.tmdb.org/t/p/w300/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg",
@@ -2736,16 +2737,6 @@
       "info": "2025",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "DIA DE LA MADRE",
-      "image": "https://i.postimg.cc/QtmYkKQv/Dia-de-la-madre-2023-Pelicula.jpg",
-      "url": "http://vidmoly.me/w/fah8sgt5weum",
-      "info": "2023",
-      "embed": "True",
       "isHost": "true",
       "online": "true",
       "import": false
@@ -2759,17 +2750,6 @@
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",      
       "isHost": "true",
       "online": "true",
-      "import": false
-    },
-    {
-      "name": "DIABOLIK - GINKO ALL´ATTACCO",
-      "image": "https://pics.filmaffinity.com/diabolik_ginko_all_attacco-146697937-large.jpg",
-      "url": "https://upstream.to/gn47g5v44h83",
-      "info": "2022",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
 {
@@ -2806,6 +2786,18 @@
       "online": "true",
       "import": false
     },
+{
+      "name": "Dirty dancing 2",
+      "image": "https://image.tmdb.org/t/p/w300/P9Mr7KnMQKMt0HLv7kP1A52ND3.jpg",
+      "url": "https://byseraguci.com/e/noslv33xbqno",
+      "info": "2004",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "Distrito 9",
       "image": "https://image.tmdb.org/t/p/w300/eROypi6RFeXFsfqeUMtTTXmdyOY.jpg",
@@ -2817,112 +2809,106 @@
       "online": "true",
       "import": false
     },
-    {
-      "name": "DOBLE ESPIONAJE",
-      "image": "https://i.postimg.cc/DfDhh5nz/IMG-20250323-210002-617.jpg",
-      "url": "https://niikaplayerr.com/file/n8fnlya4hfs5",
+{
+      "name": "Django desencadenado",
+      "image": "https://image.tmdb.org/t/p/w300/fIxAE6BKfAzhPRYm7DdldBaYu5T.jpg",
+      "url": "https://byseraguci.com/e/0lgjvzi86pmr",
+      "info": "2012",
+      "embed": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",      
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Doce del patíbulo",
+      "info": "1967",
+      "image": "https://image.tmdb.org/t/p/w300/lXYSPzIqjQxKnI0YgAVHjp1t3wK.jpg",
+      "url": "https://bysekoze.com/e/uugirzil7hpr",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",    
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Doctor Strange en el multiverso de la locura",
+      "info": "2022",
+      "image": "https://image.tmdb.org/t/p/w300/1w3MlLZPqr2Pm5loQ9h2gJwenMr.jpg",
+      "url": "https://bysefujedu.com/e/lkyftd5cmokf",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",    
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Dog Soldiers",
+      "info": "2002",
+      "image": "https://image.tmdb.org/t/p/w300/4hJimNujP4qOdp2s9PK3Nto9jzw.jpg",
+      "url": "https://bysejikuar.com/d/52t8m36awoqn",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",    
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Dogma",
+      "info": "1999",
+      "image": "https://image.tmdb.org/t/p/w300/lwmlpqGlgz51gAwBlbbSH5cPeA.jpg",
+      "url": "https://byseraguci.com/e/5wpsisr76zux",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",    
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Dos colgaos muy fumaos: Fuga de Guantánamo",
+      "info": "2008",
+      "image": "https://image.tmdb.org/t/p/w300/cbhQ8cHJ8MGc8NdWZN371ZZoWU6.jpg",
+      "url": "https://byseraguci.com/e/xe9b7m7ik7op",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",    
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Dos forajidos (Rust)",
       "info": "2025",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "DOCTOR SUEÑO",
-      "info": "[2019][Español]",
-      "image": "https://pics.filmaffinity.com/doctor_sleep-419012383-large.jpg",
-      "url": "https://filemoon.to/d/5jj8sfetm54x",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "image": "https://image.tmdb.org/t/p/w300/gXal8mHwlUwtaEfLwADC9rtvv1k.jpg",
+      "url": "https://bysefujedu.com/e/k9dhpbz2ht7v",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",    
       "embed": "true",
       "referer": "",
       "isHost": "true",
       "online": "true",
       "import": false
     },
-    {
-      "name": "DOLCE VILLA, LA",
-      "image": "https://i.postimg.cc/J0Lf2wzS/IMG-20250213-122124-628.jpg",
-      "url": "https://nikaplayerr.com/file/lb8sbpi3rih5",
-      "info": "2025",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
+     {
+      "name": "Downton Abbey",
+      "image": "https://image.tmdb.org/t/p/w300/cSZ3S6mCN4gsTQoJztBdHEbDSuD.jpg",
+      "url": "https://byselapuix.com/e/tzhqpix8p1y6",
+      "info": "2019",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "DORADO. EL",
-      "image": "https://pics.filmaffinity.com/el_dorado-289917108-large.jpg",
-      "url": "https://filemoon.to/d/j6yg49pcjs3a/Dorado_1988_Pelicula.mp4",
-      "info": "[1988][Español]",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "true",
       "isHost": "true",
       "online": "true",
       "import": false
     },
-    {
-      "name": "DOS MAS DOS",
-      "image": "https://pics.filmaffinity.com/dos_mas_dos-777490188-large.jpg",
-      "url": "https://filemoon.to/d/2k9yiclt695t/Dos_mas_dos__2012_Pelicula_by_Erpiyo_.avi",
-      "info": "[Español][2012]",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "DOLOR REAL (A REAL PAIN)",
-      "image": "https://pics.filmaffinity.com/a_real_pain-779197366-large.jpg",
-      "url": "https://listeamed.net/v/8lKQxYQ2YLexDGY",
-      "info": "2024",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "DONCELLA, LA",
-      "image": "https://pics.filmaffinity.com/sluzka-850281933-large.jpg",
-      "url": "https://upstream.to/vbz0iz7j1mgt",
-      "info": "2023",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "DOMINGO CUALQUIERA, UN",
-      "info": "[1999][Español]",
-      "image": "https://pics.filmaffinity.com/any_given_sunday-662031456-large.jpg",
-      "url": "https://filemoon.to/d/5q78ee46hbdm/Domingo_cualquiera__1999_Pelicula_.mp4",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "DOWN LOW",
-      "image": "https://pics.filmaffinity.com/down_low-745663140-large.jpg",
-      "url": "https://powlideo.cc/2ufw3h4j16c4",
-      "info": "2023",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "DOWNTON ABBEY: EL GRAN FINAL",
+     {
+      "name": "Downton Abbey: el gran final",
       "image": "https://pics.filmaffinity.com/downton_abbey_the_grand_finale-653529586-large.jpg",
-      "url": "https://filemoon.to/d/h2tik7i6w6kn/Downton_Abbey_El_gran_final",
-      "info": "[2025][Drama, romance]",
+      "url": "https://byseraguci.com/e/fkloy7lb3vyb",
+      "info": "2025",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "referer": "",
       "embed": "true",
@@ -2931,10 +2917,46 @@
       "import": false
     },
     {
-      "name": "DRACULA 2025",
-      "image": "https://www.elseptimoarte.net/carteles/341/dracula_105969.jpg",
-      "url": "https://zpjid.com/d/qr24zvvbo6y9",
-      "info": "[2025][]",
+      "name": "Drácula de Bram Stoker",
+      "image": "https://image.tmdb.org/t/p/w300/3D4UhX6dzfBTHdVWkgjadcl8YkW.jpg",
+      "url": "https://bysekoze.com/e/72m6nlavsco0",
+      "info": "1992",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Drácula. La leyenda jamás contada",
+      "image": "https://image.tmdb.org/t/p/w300/gEJqywFJ6NC7udiUYoB1Z0we2LV.jpg",
+      "url": "https://bysejikuar.com/e/2cjj1ijpvtbk",
+      "info": "2014",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+ {
+      "name": "Drácula",
+      "image": "https://image.tmdb.org/t/p/w300/ff7fyDdtXM2wu9jsm9gOMYtpvOl.jpg",
+      "url": "https://bysejikuar.com/e/vceyxaxa9x2y/drac-1080-cas",
+      "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Dragon Blade",
+      "image": "https://image.tmdb.org/t/p/w300/bNLYneTNnlfjf0jVUADlqA7RXaf.jpg",
+      "url": "https://byseraguci.com/e/61ip9lkvhpba",
+      "info": "2015",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "referer": "",
       "embed": "true",
@@ -2955,6 +2977,18 @@
 "import": false
 },
 {
+      "name": "Drive",
+      "image": "https://image.tmdb.org/t/p/w300/bmtWCavGHazxdt0LxWxjRgVyMh9.jpg",
+      "url": "https://bysekoze.com/e/i2heprivnp94",
+      "info": "2011",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
 "name": " Drive, los farsantes ",
 "image": "https://pics.filmaffinity.com/drive_the_pretenders-155709738-mmed.jpg",
 "url": "https://bysewihe.com/d/14c7ehcxvhax",
@@ -2966,71 +3000,18 @@
 "online": "true",
 "import": false
 },
-    {
-      "name": "DUAL",
-      "image": "https://pics.filmaffinity.com/dual-155453589-large.jpg",
-      "url": "https://filemoon.to/d/iz49wvf3eci9",
-      "info": "2022",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "DUELO DEL SIGLO, EL",
-      "image": "https://i.postimg.cc/nhhMVyrx/El-duelo-del-siglo-2022-Pelicula.jpg",
-      "url": "https://susanhavekeep.com/e/a7aildqzh7yz",
-      "info": "2022",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "DUELO EN EL ABISMO",
-      "image": "https://pics.filmaffinity.com/duell_am_abgrund-123823004-large.jpg",
-      "url": "https://upstream.to/iiz5f81k2122",
-      "info": "2023",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "DULCES Y SANGRIENTOS 16",
-      "image": "https://static.wikia.nocookie.net/doblaje/images/8/8c/Dulces_y_sangrientos_16.jpg/revision/latest?\n\ncb=20231006211251&path-prefix=es",
-      "url": "https://upstream.to/v5e12t0cjm1w",
-      "info": "2023",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "DUNGEONS AND DRAGONS",
-      "image": "https://pics.filmaffinity.com/dungeons_dragons_honor_among_thieves-651649500-large.jpg",
-      "url": "https://upstream.to/coay6f7b3rp6",
-      "info": "2023",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "DUPLICIDAD",
-      "image": "https://i.postimg.cc/7hvr4WDr/IMG-20250323-192523-573.jpg",
-      "url": "https://cybervynx.com/30ncuumj7y2a",
-      "info": "2025",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
+ {
+      "name": "Duelo en el asfalto",
+      "image": "https://image.tmdb.org/t/p/w300/nSsWo2jHq640oiSN2HS5ufXVWzy.jpg",
+      "url": "https://bysekoze.com/e/dtxpvofpcy7b",
+      "info": "2015",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "referer": "",
+      "embed": "true",
       "isHost": "true",
-      "online": "true"
-    },
+      "online": "true",
+      "import": false
+    },   
 {
 "name": "El efecto mariposa",
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/vtqJkVTvrxbk2BehGO6e6izsUBa.jpg",
