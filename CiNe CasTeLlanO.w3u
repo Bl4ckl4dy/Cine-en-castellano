@@ -2490,6 +2490,39 @@
       "import": false
     },
 {
+      "name": "De ladrón a policía",
+      "info": "1999",
+      "image": "https://image.tmdb.org/t/p/w300/buUQCdQrJM8itUd0MmtIikjJyEl.jpg",
+      "url": "https://byseraguci.com/e/9abaza1wt8x5",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Dead end",
+      "info": "2003",
+      "image": "https://image.tmdb.org/t/p/w300/3OBRXbnlhZxMPpfLMLzQwF29IMC.jpg",
+      "url": "https://byseraguci.com/e/in0shz3o506r",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Dead man",
+      "info": "1995",
+      "image": "https://image.tmdb.org/t/p/w300/in1wyJhudwwfLS6Ad2Q6wYJGUAv.jpg",
+      "url": "https://byseraguci.com/e/b72ryzen4qx6",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
       "name": " Dead Man's Wire",
       "image": "https://pics.filmaffinity.com/dead_man_s_wire-983979968-msmall.jpg",
       "url": " https://bysewihe.com/d/w72jb1nqjj7q",
@@ -2501,12 +2534,45 @@
       "online": "true",
       "import": false
 },
+{
+      "name": "Deadpool ",
+      "info": "2016",
+      "image": "https://image.tmdb.org/t/p/w300/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg",
+      "url": "https://bysekoze.com/e/qc5gmivcefal",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Deadpool 2",
+      "info": "2018",
+      "image": "https://image.tmdb.org/t/p/w300/84NUrv5kuMUDDlOPqi97KGJMdLm.jpg",
+      "url": "https://byseraguci.com/e/0qycpgmyoj1y",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "Deadpool vs Lobezno",
       "image": "https://pics.filmaffinity.com/deadpool_wolverine-864471588-large.jpg",
       "url": "https://byseraguci.com/e/sq9smqvr2tvl",
       "info": "2024",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "De las cenizas: Bajo tierra",
+      "info": "2026",
+      "image": "https://image.tmdb.org/t/p/w300/3OBRXbnlhZxMPpfLMLzQwF29IMC.jpg",
+      "url": "https://byseraguci.com/e/eyhdo65lphfd",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "true",
       "isHost": "true",
       "online": "true",
@@ -2520,6 +2586,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "true",
       "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Déjame entrar",
+      "info": "2008",
+      "image": "https://image.tmdb.org/t/p/w300/8mw1Iv9o4BVCtfScCL0nhzolOdO.jpg",
+      "url": "https://byseraguci.com/e/1x3g1j1wkz1n",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
       "isHost": "true",
       "online": "true",
       "import": false
@@ -2597,12 +2674,23 @@
       "online": "true",
       "import": false
     },
-    {
-      "name": "DI QUE SI",
+{
+      "name": "Di que sí",
       "image": "https://pics.filmaffinity.com/yes_man-597620171-large.jpg",
-      "url": "https://filemoon.to/d/kupdj9813e2w/Di_que_s___2008_Pelicula_.mkv",
-      "info": "[Español][1994]",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "url": "https://pixeldrain.net/u/b5CWw6U9",
+      "info": "1994",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "Diablo",
+      "image": "https://image.tmdb.org/t/p/w300/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg",
+      "url": "https://bysefujedu.com/e/wwzv3wvtl80d/di4870-cas",
+      "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "true",
       "isHost": "true",
       "online": "true",
@@ -2618,13 +2706,13 @@
       "online": "true",
       "import": false
     },
-    {
-      "name": "DIABOLICA (AFRAID)",
-      "image": "https://pics.filmaffinity.com/afraid-617156352-large.jpg",
-      "url": "https://filemoon.to/d/w1afp3pcvp1g/Diabolica__Afraid__2024_Pelicula.mp4",
-      "info": "2024",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+ {
+      "name": "Días extraños",
+      "image": "https://image.tmdb.org/t/p/w300/5PrbWUAkjQOPWUMrkRpLOORIB1z.jpg",
+      "url": "https://bysekoze.com/e/9sb5d7e7eyhu",
+      "info": "1995",
       "embed": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",      
       "isHost": "true",
       "online": "true",
       "import": false
@@ -2640,11 +2728,33 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-    {
-      "name": "DIAMANTES DE AMBERES: ROBO DEL SIGLO, LOS",
-      "image": "https://pics.filmaffinity.com/stolen_heist_of_the_century-831778768-large.jpg",
-      "url": "https://filemoon.to/d/nbqp0n2migu4/Los_diamantes_de_Amberes_El_robo_del_siglo",
+{
+      "name": "Die my love",
+      "image": "https://image.tmdb.org/t/p/w300/SPe4WWcpMgn6ughXDgQPz68v4F.jpg",
+      "url": "https://bysefujedu.com/e/crco67isuqcu",
       "info": "2025",
+      "embed": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",      
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Dímelo bajito",
+      "image": "https://image.tmdb.org/t/p/w300/dvebFZgb6HczmYkOA43bGfSrvYl.jpg",
+      "url": "https://bysekoze.com/e/9g98iowhtw74",
+      "info": "2025",
+      "embed": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",      
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "Dirty dancing",
+      "image": "https://pics.filmaffinity.com/dirty_dancing-437616472-large.jpg",
+      "url": "https://bysekoze.com/e/w75fcy8vft24",
+      "info": "1987",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "true",
       "referer": "",
@@ -2653,48 +2763,14 @@
       "import": false
     },
     {
-      "name": "DINERO SUCIO",
-      "image": "https://i.postimg.cc/nzNVWMgS/IMG-20241013-192815-227.jpg",
-      "url": "https://filemoon.to/d/wieftcvolmyg",
-      "info": "2024",
+      "name": "Distrito 9",
+      "image": "https://image.tmdb.org/t/p/w300/eROypi6RFeXFsfqeUMtTTXmdyOY.jpg",
+      "url": "https://bysekoze.com/d/bre92f8xxa2r",
+      "info": "2009",
       "embed": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",      
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "DIRTY DANCING",
-      "image": "https://pics.filmaffinity.com/dirty_dancing-437616472-large.jpg",
-      "url": "https://filemoon.to/d/vfyxm5ev1f20/Dirty_Dancing__1987__Pelicula_castellano.mp4",
-      "info": "1987",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "DISCOVERY, THE",
-      "image": "https://pics.filmaffinity.com/the_discovery-202566591-large.jpg",
-      "url": "https://listeamed.net/v/b4ZJx2mX8aR52P3",
-      "info": "[2017][Español]",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "DIVORCIADOS",
-      "image": "https://i.postimg.cc/CxT2csQ3/r0-Zdp-HIvojr6k9-KMiz-U2e47bx-DM.jpg",
-      "url": "https://filemoon.to/d/8ldqqklo8bm1",
-      "info": "2024",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -5778,6 +5854,17 @@
       "online": "true",
       "import": false
 },
+{
+      "name": "La desconocida",
+      "image": "https://pics.filmaffinity.com/la_desconocida-491494451-mmed.jpg",
+      "url": "https://byseraguci.com/e/gjmgco63got6",
+      "info": "2026",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
 {
 "name": " La familia Glenrothan ",
 "image": "https://pics.filmaffinity.com/glenrothan-420064195-mmed.jpg",
