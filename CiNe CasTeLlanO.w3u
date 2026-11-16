@@ -2601,6 +2601,39 @@
       "online": "true",
       "import": false
     },
+{
+      "name": "Descuida, yo te cuido",
+      "info": "2021",
+      "image": "https://image.tmdb.org/t/p/w300/rsXWIyHEmnMmpYMMZVtXhsqdDsl.jpg",
+      "url": "https://byseraguci.com/e/zfkb744mwyjj",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Deseando libertad",
+      "info": "2004",
+      "image": "https://image.tmdb.org/t/p/w300/wg1XPKlDHpXjyPH4WjYm6s8WkgO.jpg",
+      "url": "https://byseraguci.com/e/s3khc2k3sek1",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Despierta la furia",
+      "info": "2021",
+      "image": "https://image.tmdb.org/t/p/w300/emM894kjspdQsHyTAF7sjRNlbTr.jpg",
+      "url": "https://byseraguci.com/e/mtwelnykxm6g",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
  {
       "name": "Destino final",
       "image": "https://pics.filmaffinity.com/final_destination-382848128-mmed.jpg",
@@ -2661,6 +2694,17 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "import": false
+    },
+{
+      "name": "Destino oculto",
+      "info": "2011",
+      "image": "https://image.tmdb.org/t/p/w300/lndtbz6rgmCoSufjkOC0JlsybRY.jpg",
+      "url": "https://byseraguci.com/e/rhmuia9pvd6p",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
     {
