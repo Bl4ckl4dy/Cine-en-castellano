@@ -3080,7 +3080,7 @@
 {
 "name": " El bar Coyote",
 "image": "https://image.tmdb.org/t/p/w300/hPJttpB1vskxpYf4J5EgBt5sGEl.jpg",
-"url": "https://pixeldrain.net/u/GEKdxWFL",
+"url": "https://byseraguci.com/d/duc0aucwe8m7",
 "info": "2000",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
@@ -3764,7 +3764,7 @@
 {
       "name": "French lover",
       "image": "https://pics.filmaffinity.com/french_lover-746570295-large.jpg",
-      "url": "https://pixeldrain.net/u/ugwsZTLT",
+      "url": "https://byseraguci.com/e/ic43s3zh8xm7",
       "info": "2025",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "true",
@@ -10180,6 +10180,29 @@
       "referer": "",
       "isHost": "true",
       "online": "true",
+      "import": false
+    },
+{
+      "name": "Un fantasma en la batalla",
+      "image": "https://image.tmdb.org/t/p/w300/zMdJdI74PdObENl4RfU3o5lC0VM.jpg",
+      "url": "https://byseraguci.com/e/kuajl8arj65x",
+      "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "Un funeral de locos",
+      "image": "https://image.tmdb.org/t/p/w300/8WeFg8OExE8e4vyK8fNiU3xlWv7.jpg",
+      "url": "https://byseraguci.com/e/90txuc8vhktm",
+      "info": "2025",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
