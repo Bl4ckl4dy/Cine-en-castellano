@@ -929,7 +929,6 @@
       "embed": "true",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
 {
@@ -1037,7 +1036,6 @@
       "embed": "true",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -1109,7 +1107,6 @@
       "embed": "true",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
 {
@@ -1181,7 +1178,6 @@
       "embed": "true",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -1265,7 +1261,6 @@
       "embed": "true",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -1680,8 +1675,8 @@
       "url": "https://byseraguci.com/e/d9e0m4an6y9x/bikeriders-la-ley-del-asfalto",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
+        "import": false
+  },
 {
       "name": " Biker Boyz ",
       "image": "https://media.themoviedb.org/t/p/w94_and_h141_face/j7bMNFqacnWVxO7SLkWKYFzjiE3.jpg",
@@ -1714,7 +1709,7 @@
       "url": "https://byseraguci.com/e/100ifokqg0jf",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
+"import": false
     },
     {
       "name": "Black friday",
@@ -1725,7 +1720,6 @@
       "embed": "true",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
 {
@@ -1845,7 +1839,6 @@
       "embed": "true",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -2653,7 +2646,7 @@
       "embed": "true",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8"
     },
 {
       "name": "Destino final 3",
@@ -2663,7 +2656,7 @@
       "embed": "true",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8"
     },
 {
       "name": "Destino final 4",
@@ -2673,7 +2666,7 @@
       "embed": "true",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8"
     },
 {
       "name": "Destino final 5",
@@ -2683,7 +2676,7 @@
       "embed": "true",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8"
     },
     {
       "name": "Destino final: lazos de sangre",
