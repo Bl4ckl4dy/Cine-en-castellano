@@ -3138,6 +3138,18 @@
 "import": false
 },
 {
+"name": "El caso de la viuda negra",
+"info": "1987",
+"image": "https://image.tmdb.org/t/p/w300/2ZTavVGwPI2bzCer3SDwY5m9oxC.jpg",
+"url": "https://byseraguci.com/e/0lndul8jq17a",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
       "name": "  El caso Hübener   ",
       "image": "https://image.tmdb.org/t/p/w300/jdugSr7F0kFavNqUaDytcJUgRGW.jpg",
       "url": " https://bysewihe.com/e/0uuua6z5k7lj ",
@@ -3270,6 +3282,18 @@
 "import": false
     },
 {
+"name": "El color púrpura",
+"info": "1985",
+"image": "https://image.tmdb.org/t/p/w300/rSjW6AMQJFJF9WhHdKRvz7f6DVH.jpg",
+"url": "https://byseraguci.com/e/23q2zwfn4lrk",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
       "name": "  El complejo  ",
       "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/FAEW0mJ8nGhnVNynXtBf73vO29.jpg",
       "url": " https://bysewihe.com/e/0nmtpfdwkl1a ",
@@ -3330,6 +3354,42 @@
       "import": false
     },
 {
+"name": "El día de mañana",
+"info": "2004",
+"image": "https://image.tmdb.org/t/p/w300/c4IUWfr4AokGlVSWNRAat0DfbgZ.jpg",
+"url": "https://byseraguci.com/e/njc6b1py6tiy",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "El día del juicio final",
+"info": "2014",
+"image": "https://image.tmdb.org/t/p/w300/ltVbyAXDVXLrfkYCZLzM9GPSoA2.jpg",
+"url": "https://byseraguci.com/e/zmvpqqtxoynm",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "El diablo metió la mano",
+"info": "1999",
+"image": "https://image.tmdb.org/t/p/w300/dTxy4Y6Ik4fMPi7dTyf7paGn5kB.jpg",
+"url": "https://byseraguci.com/e/ecg1am531bk2",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
 "name": "El diablo viste de Prada 2",
 "image": "https://pics.filmaffinity.com/the_devil_wears_prada_2-402204206-mmed.jpg",
 "url": "https://byseraguci.com/e/yrgnvd6oe5vp/el-diablo-viste-de-prada-2",
@@ -3341,11 +3401,35 @@
 "online": "true",
 "import": false
 },
+{
+"name": "El dictador",
+"info": "2012",
+"image": "https://image.tmdb.org/t/p/w300/oQZGHRqZnVAMYCVKjWFoyszINqj.jpg",
+"url": "https://byseraguci.com/e/35ojxu5amy8l",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
  {
 "name": "El efecto mariposa",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/vtqJkVTvrxbk2BehGO6e6izsUBa.jpg",
+"image": "https://image.tmdb.org/t/p/w300/vtqJkVTvrxbk2BehGO6e6izsUBa.jpg",
 "url": "https://byseraguci.com/e/qece1vid154i",
 "info": "2004",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "El elixir de la inmortalidad",
+"info": "2025",
+"image": "https://image.tmdb.org/t/p/w300/eAvV8ITNS4M8Zt8sxOK6g3XBLBr.jpg",
+"url": "https://byseraguci.com/e/wpem430y9951",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "true",
@@ -3380,7 +3464,7 @@
 {
       "name": "El francotirador",
       "info": "2014",
-      "image": "https://m.media-amazon.com/images/M/MV5BZDNjNjFlOGUtYTc5Yy00ZDZiLTg4NzMtYjlmM2JmMTBkOWY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "image": "https://image.tmdb.org/t/p/w300/ntso1nvAVIEdzjc4Tc9nB7MPSKu.jpg",
       "url": "https://byseraguci.com/e/y1o8ffcv83cn",
       "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
@@ -3388,6 +3472,18 @@
 "isHost": "true",
 "online": "true",
 "import": false
+    },
+{
+      "name": "El fundador",
+      "image": "https://image.tmdb.org/t/p/w300/rAzWjpyXBX95afioxkKnzVUvHM4.jpg",
+      "url": "https://byseraguci.com/e/xhcox8h4iyfe",
+      "info": "2016",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
     },
 {
 "name": " El libro negro de las horas ",
